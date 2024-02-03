@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **discord.gg/3UwAHvAVEJ**
 
-- ⚡ Fun fact **did you know youre wastig time reading this ;)**
+- ⚡ Fun fact **did you know youre wasting time reading this ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
