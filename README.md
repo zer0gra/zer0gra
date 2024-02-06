@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zer0gra" alt="zer0gra" /></a> </p>
 
-- 🔭 I’m currently working on [password-manager](https://github.com/zer0gra/password-manager)
+- 🔭 I’m currently working on [Nothing]()
 
 - 🌱 I’m currently learning **c++, c# and python**
 
