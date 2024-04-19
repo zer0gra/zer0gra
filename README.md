@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **c++, c# and python**
 
-- 🤝 I’m looking for help with [pysilon malware (educational only)](https://github.com/mategol/PySilon-malware)
+- 🤝 I’m looking for help with [nothing atm]()
 
-- 📫 How to reach me **discord.gg/3UwAHvAVEJ**
+- 📫 How to reach me **[my discord server](https://discord.gg/7HrXgAeMDZ)**
 
 - ⚡ Fun fact **did you know youre wasting time reading this ;)**
 
