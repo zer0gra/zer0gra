@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Nothing]()
 
-- 🌱 I’m currently learning **c++, c# and python**
+- 🌱 I’m currently learning **c++ and c#*
 
 - 🤝 I’m looking for help with [nothing atm]()
 
 - 📫 How to reach me **[my discord server](https://discord.gg/7HrXgAeMDZ)**
 
-- ⚡ Fun fact **did you know youre wasting time reading this ;)**
+- ⚡ Fun fact **i insult people in my own language with cancer ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
